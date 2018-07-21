@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="651" key="DIALOG_X_ORIGIN"/>
+		<item value="153" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
+		<item value="0" key="sort"/>
+		<item value="false" key="allPersp"/>
+		<list key="columns">
+			<item value="306"/>
+			<item value="612"/>
+		</list>
+		<list key="bounds">
+			<item value="489"/>
+			<item value="98"/>
+			<item value="944"/>
+			<item value="642"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.cdt.ui.wizardse.ImportExecutableWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.cdt.ui.importWizardCategory"/>
+		</list>
+	</section>
+	<section name="ShowViewDialog">
+		<item value="314" key="DIALOG_WIDTH"/>
+		<item value="1|Noto Sans|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="443" key="DIALOG_HEIGHT"/>
+		<item value="804" key="DIALOG_X_ORIGIN"/>
+		<item value="231" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
